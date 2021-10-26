@@ -1,0 +1,104 @@
+/*Progeto:Car-Repair
+Versão:1.0
+Data:14/08/2015;*/
+
+/*Global*/
+body p {color:#BEBEBE;}
+
+/*fister-div*/
+.fist-div {background: #333333;height: 3em;}
+.fist-div p {color: #ffffff;font-size: 0.6em;margin: 2.5% 0%;padding: 0%;}
+.fist-div span {color: #B24E3F;}
+.endereco p {color: #585858;margin: 2.5% 0%;}
+
+/*header*/
+header {background: #F36639;height: 3.9em;}
+.header-nav {margin: 0%; padding: 0%;}
+header img {margin-top: 8%;}
+
+.header-nav ul {margin:0%;font-size: 0%;}
+.header-nav ul li {display: inline-block;list-style: none;padding: 1.24em 0em;border-left: 1px solid #ffffff;font-size: 14px;}
+.header-nav ul li:last-child {border-right: 1px solid #ffffff;}
+.header-nav ul li a {color: #ffffff;text-decoration: none;padding:1.4em 1.4em;}
+.header-nav ul li a:hover {background: #B55434;}
+
+/*section-1*/
+.section-1 { background: url(../img/img-slide.fw.png) center repeat-x;height : 25.5em;margin-bottom: 8%;}
+.section-article-1 {height: 15em;}
+.article-1 {background: #F36639;height: 15em;}
+.article-1:hover {background: #B55434; border: 1px solid #BEBEBE; color: #BEBEBE}
+.article-1:hover a.btn {border: 1px solid #BEBEBE; color: #BEBEBE;margin-top: 10%;}
+.article-1 img {margin-top: 10%;}
+
+.article-1 h3 {color: #ffffff;font-size: 1.2em;margin-top: 10%;}
+.article-1 a {border: 1px solid #ffffff; color: #ffffff;margin-top: 10%;}
+
+.article-1 p {font-size: 0.8em;color:#BEBEBE;margin: 0%;padding: 0%;}
+
+/*section-2*/
+.section-2 {height:20em;}
+.article-2 img {width: 32em;}
+.article-2 span {color:#EF9F7A;}
+
+/*section-3*/
+.section-3 {background: #F2F2F2;height: 30em;}
+.article-3 h2 {font-size:1.4em;color: #535353;margin-top: 5%;padding: 0%;}
+.article-3 h3 {font-size:1.3em;margin-bottom: 2em;}
+.article-3 ul li {display: block;list-style: none;}
+.article-3 ul li a {font-size: 0.8em;text-decoration: none;color:#BEBEBE; }
+.article-3 ul li span {color:#F5421A;}
+.article-3 ul li a:hover {color:#E49F90; }
+.article-3 ul li :hover span {color:black; }
+.article-btn-3 {background: #F36639;width: 20%;margin-top: 7%;}
+.article-btn-3 a {color: #ffffff;text-decoration: none;}
+
+/*section-4*/
+.section-4 {height: 25em;background: }
+.article-4 h2 {color:#EF9F7A;font-size: 1.4em;margin-top: 10%; }
+.article-4 h3 {color:#EF9F7A;font-size: 1.2em;margin-bottom: 4%; }
+.article-4 p {font-size: 0.8em;margin-bottom: 4%; }
+.article-btn-4 {background: #F36639;width: 25%;margin-top: 4%;}
+.article-btn-4 a {color: #ffffff;text-decoration: none;}
+.article-img-4 {margin-top: 10%;}
+
+/*section-5*/
+.section-5 {height: 12em;background: red;}
+
+.article-5:hover {background: #F36639;text-decoration: none;}
+.article-5 {height: 100%;}
+.article-5 h2 {font-size: 1.1em;color: #F36639;margin: 7% 0%0% 0%;}
+.article-5 span {font-size: 0.7em;}
+.article-5 h3 {font-size: 1.1em;color: #ffffff;margin:  7% 0%;}
+.article-btn-5  {display: inline-block;width: 40%;}
+.article-btn-5 a {border: 1px solid #ffffff;padding: 10%;color: #ffffff;text-decoration: none;}
+
+/*section-6*/
+
+.section-6 {height: 25em;background: #ffffff;}
+.article-6 { text-align: center;margin-bottom: 5%;}
+.article-6 h2 {margin: 5% 0%;font-size: 2.3em;}
+.article-6 img {margin-bottom: 5%;}
+.article-6 p {font-size: 0.8em;}
+.article-6 span {font-size: 1.2em;color: #F36639;}
+
+/*section-7*/
+.section-7 {background: #F2F2F2;height: 5em;}
+
+.article-7  {display: inline-block;margin-top: 2%;}
+
+/*secton-8*/
+.section-8 {height: 20em;background: #333333;}
+.article-8  {margin-top: 3%}
+.article-8 h4 {font-size: 1em; color: #ffffff;}
+.article-8 ul {padding: 0%;}
+.article-8 ul li {list-style: none;display: block;margin-top: 5%;}
+.article-8 ul li a {font-size: 0.8em; color: #ffffff;text-decoration: none;}
+.article-8 ul li a:hover {color: #BD736A;}
+.article-8 ul li p {font-size: 0.7em; color: #ffffff;}
+
+/*section-9*/
+.section-9 {background: url(../img/mapa.fw.png)repeat-x center; height: 13.1em;}
+
+/*footer*/
+footer { height: 5em; background: #ffffff;}
+footer p {text-align: center;margin-top: 2%;}
